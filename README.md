@@ -241,3 +241,11 @@ Download
 ```
 
 The final Power BI report can show route supply, stop activity, hourly service patterns, journey duration, and route coverage while clearly distinguishing scheduled service from actual operational or passenger data.
+
+## Organisation interest
+
+Exploring this project for your organisation?
+
+[View my LinkedIn](https://linkedin.com/in/arjun-mohan-b57305341)
+
+It will enable me to follow up. Thank you.
